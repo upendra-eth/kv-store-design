@@ -1,4 +1,4 @@
-# KV Database Engine Demo 🚀
+# KV Database Engine Demo 
 
 A step-by-step implementation of a key-value database engine like LevelDB, built to learn database internals.
 
