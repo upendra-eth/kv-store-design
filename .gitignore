@@ -1,0 +1,11 @@
+# Demo data directories (generated at runtime)
+kv-demo-data/
+step2-demo-data/
+step4-demo-data/
+test-sstable/
+
+# Node
+node_modules/
+
+# OS
+.DS_Store
